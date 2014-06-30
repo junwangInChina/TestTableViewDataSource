@@ -1,0 +1,810 @@
+TTestTableViewDataSource
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-baircoeticzlztefdezhpfufzmhb/TestTableViewDataSource-Prefix.pch.pch TestTableViewDataSource/TestTableViewDataSource-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/AppDelegate.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/UIView+ModifyFrame.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainCell.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CUSTableDataSource.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainView.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainModel.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CommonDeal.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainViewController.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/main.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource normal x86_64
+cCopyStringsFile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/en.lproj/InfoPlist.strings TestTableViewDataSource/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/Images.xcassets
+cProcessInfoPlistFile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/Info.plist /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/TestTableViewDataSource-Info.plist
+cGenerateDSYMFile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app.dSYM /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource
+cTouch /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9FAC0000000000446820
+t1396416428
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9FAE000000000088D8C0
+t1396416430
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533B9FB50000000001F1DE10
+t1396416437
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m
+c000000005302C69D00000000000000C4
+t1392690845
+s196
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m
+c000000005302D7E10000000000000730
+t1392695265
+s1840
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m
+c0000000053B1035B00000000000007DE
+t1404109659
+s2014
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m
+c0000000053AD363000000000000005D5
+t1403860528
+s1493
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m
+c0000000053B0F777000000000000021E
+t1404106615
+s542
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m
+c0000000053B1027000000000000007D5
+t1404109424
+s2005
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m
+c0000000053B1062A00000000000008BF
+t1404110378
+s2239
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m
+c0000000053AD262B0000000000000986
+t1403856427
+s2438
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/Images.xcassets
+c0000000053AD24C90000000000000088
+t1403856073
+s136
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/TestTableViewDataSource-Info.plist
+c0000000053AD24C9000000000000048F
+t1403856073
+s1167
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/TestTableViewDataSource-Prefix.pch
+c0000000053AD25D40000000000000196
+t1403856340
+s406
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/en.lproj/InfoPlist.strings
+c0000000053AD24C9000000000000002D
+t1403856073
+s45
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m
+c0000000053AD24C90000000000000159
+t1403856073
+s345
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app
+t1404110455
+s272
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app.dSYM
+t1404110417
+s102
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/Info.plist
+t1404110417
+s1067
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/PkgInfo
+t1404110417
+s8
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource
+t1404110455
+s61080
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/en.lproj/InfoPlist.strings
+t1404110415
+s42
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/AppDelegate.o
+t1404110415
+s65576
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CUSTableDataSource.o
+t1404110415
+s52940
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CommonDeal.o
+t1404110415
+s3416
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainCell.o
+t1404110415
+s52608
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainModel.o
+t1404110415
+s8780
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainView.o
+t1404110415
+s58728
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainViewController.o
+t1404110415
+s47208
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/TestTableViewDataSource.LinkFileList
+c0000000053B1064E000000000000067D
+t1404110414
+s1661
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/UIView+ModifyFrame.o
+t1404110415
+s49700
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/main.o
+t1404110415
+s3504
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/AppDelegate.o
+t1404110454
+s72124
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CUSTableDataSource.o
+t1404110454
+s57996
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CommonDeal.o
+t1404110454
+s3868
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainCell.o
+t1404110454
+s54792
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainModel.o
+t1404110454
+s10048
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainView.o
+t1404110454
+s66812
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainViewController.o
+t1404110454
+s48792
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/TestTableViewDataSource.LinkFileList
+c0000000053B10676000000000000068F
+t1404110454
+s1679
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/UIView+ModifyFrame.o
+t1404110454
+s51012
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/main.o
+t1404110454
+s3748
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/assetcatalog_dependencies.txt
+t1404110417
+s488
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/assetcatalog_generated_info.plist
+t1404110417
+s585
+
+N/var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-baircoeticzlztefdezhpfufzmhb/TestTableViewDataSource-Prefix.pch.pch
+t1404109426
+s133012
+
+N/var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch.pch
+t1404110415
+s125148
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies92059cf63d61b941^4207adf63d61b941^---0#1#1#--18"Check dependencies36"B47B015A-CC00-4E4F-A47E-8F36385E780B-
+
+CCompileAssetCatalog /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/Images.xcassets
+s425803215.626435
+e425803217.342044
+r1
+xCompileAssetCatalog
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/LaunchImage-700-568h@2x.png
+o/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/LaunchImage-568h@2x.png
+o/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CompileAssetCatalog build/Debug-iphonesimulator/TestTableViewDataSource.app TestTableViewDataSource/Images.xcassets115"CompileAssetCatalog build/Debug-iphonesimulator/TestTableViewDataSource.app TestTableViewDataSource/Images.xcassetsd76da0cf3d61b941^649057d13d61b941^-516"/* com.apple.actool.compilation-results *//Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/LaunchImage-700-568h@2x.png/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/LaunchImage-568h@2x.png/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/Images.xcassets/0000000000000000^1335"CompileAssetCatalog build/Debug-iphonesimulator/TestTableViewDataSource.app TestTableViewDataSource/Images.xcassets    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 5.1 --target-device iphone --compress-pngs --compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/Images.xcassets36"9AAB2529-9E52-425B-8FC8-8E54AD554506-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/AppDelegate.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803215.362803
+e425803215.493748
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/AppDelegate.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m236"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/AppDelegate.o TestTableViewDataSource/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler01f75ccf3d61b941^096c7ecf3d61b941^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m0000000000000000^4268"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/AppDelegate.o TestTableViewDataSource/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/i386 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/AppDelegate.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/AppDelegate.o36"6132E112-4BFA-4537-80D4-B9D6164060D8-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CUSTableDataSource.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803215.363297
+e425803215.493742
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CUSTableDataSource.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m245"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CUSTableDataSource.o Classes/DataSource/CUSTableDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdf155dcf3d61b941^a1687ecf3d61b941^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m0000000000000000^4300"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CUSTableDataSource.o Classes/DataSource/CUSTableDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/i386 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CUSTableDataSource.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CUSTableDataSource.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CUSTableDataSource.o36"502E0D58-C6FD-4C64-853A-B1C8354A82F8-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CommonDeal.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803215.495703
+e425803215.543973
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CommonDeal.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m225"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CommonDeal.o Classes/Common/CommonDeal.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler14087fcf3d61b941^d1418bcf3d61b941^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m0000000000000000^4244"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CommonDeal.o Classes/Common/CommonDeal.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/i386 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CommonDeal.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CommonDeal.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CommonDeal.o36"AB5EF7C0-0434-41C2-AF23-667C85E62ABD-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainCell.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803215.362808
+e425803215.492306
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainCell.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m229"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainCell.o Classes/Views/MainView/MainCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere7fc5ccf3d61b941^4f077ecf3d61b941^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m0000000000000000^4248"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainCell.o Classes/Views/MainView/MainCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/i386 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainCell.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainCell.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainCell.o36"53FCFE93-8692-488B-A92B-23EA731EAF19-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainModel.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803215.494215
+e425803215.547203
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainModel.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m223"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainModel.o Classes/Models/MainModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6ea67ecf3d61b941^f92f8ccf3d61b941^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m0000000000000000^4238"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainModel.o Classes/Models/MainModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/i386 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainModel.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainModel.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainModel.o36"49A5D4EF-14CF-4266-A34F-DCFEB5499E2A-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainView.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803215.456888
+e425803215.533724
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainView.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m229"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainView.o Classes/Views/MainView/MainView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1d1f75cf3d61b941^1edd88cf3d61b941^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m0000000000000000^4248"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainView.o Classes/Views/MainView/MainView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/i386 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainView.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainView.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainView.o36"E4B9B0F8-E93F-4E44-AF21-FE6C0A05557D-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainViewController.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803215.495705
+e425803215.576910
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainViewController.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m261"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainViewController.o Classes/Controllers/MainController/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8a047fcf3d61b941^92b093cf3d61b941^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m0000000000000000^4332"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainViewController.o Classes/Controllers/MainController/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/i386 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainViewController.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainViewController.o36"CAEFCE20-9328-4897-994B-F835CAD3FE72-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/UIView+ModifyFrame.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803215.362817
+e425803215.454872
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/UIView+ModifyFrame.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m241"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/UIView+ModifyFrame.o Classes/Common/UIView+ModifyFrame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2afd5ccf3d61b941^6d7274cf3d61b941^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m0000000000000000^4292"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/UIView+ModifyFrame.o Classes/Common/UIView+ModifyFrame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/i386 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/UIView+ModifyFrame.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/UIView+ModifyFrame.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/UIView+ModifyFrame.o36"C9B2E566-9681-410B-AFC7-7991A7EB5939-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/main.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803215.537786
+e425803215.571311
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/main.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m222"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/main.o TestTableViewDataSource/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb7d089cf3d61b941^184292cf3d61b941^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m0000000000000000^4226"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/main.o TestTableViewDataSource/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/i386 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/main.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/main.o36"3FD7054F-815C-4B1C-BC9C-F96ABF162151-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/AppDelegate.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803254.679387
+e425803254.803267
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m240"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/AppDelegate.o TestTableViewDataSource/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5e13aef63d61b941^3acacdf63d61b941^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m0000000000000000^4282"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/AppDelegate.o TestTableViewDataSource/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-baircoeticzlztefdezhpfufzmhb/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/AppDelegate.o36"8FFE37AC-8C79-4012-9BA2-AE3593EDFCA1-
+bA7C4B159-DEB8-464F-B234-0753A4113A2E
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CUSTableDataSource.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803254.680055
+e425803254.799658
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CUSTableDataSource.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m249"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CUSTableDataSource.o Classes/DataSource/CUSTableDataSource.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere831aef63d61b941^72c2ccf63d61b941^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m0000000000000000^4314"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CUSTableDataSource.o Classes/DataSource/CUSTableDataSource.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-baircoeticzlztefdezhpfufzmhb/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CUSTableDataSource.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CUSTableDataSource.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CUSTableDataSource.o36"9126AA4C-D470-46E1-86C8-9AD96319D999-
+bA7C4B159-DEB8-464F-B234-0753A4113A2E
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CommonDeal.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803254.804840
+e425803254.853083
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CommonDeal.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m229"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CommonDeal.o Classes/Common/CommonDeal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere831cef63d61b941^b69ddaf63d61b941^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m0000000000000000^4258"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CommonDeal.o Classes/Common/CommonDeal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-baircoeticzlztefdezhpfufzmhb/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CommonDeal.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CommonDeal.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CommonDeal.o36"BF23931D-94B5-498D-A3CA-CCD846C1A90B-
+bA7C4B159-DEB8-464F-B234-0753A4113A2E
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainCell.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803254.679578
+e425803254.803039
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainCell.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m233"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainCell.o Classes/Views/MainView/MainCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerca15aef63d61b941^65c4cdf63d61b941^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m0000000000000000^4262"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainCell.o Classes/Views/MainView/MainCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-baircoeticzlztefdezhpfufzmhb/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainCell.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainCell.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainCell.o36"4270B784-E6EE-4791-B021-10B73A66FEA9-
+bA7C4B159-DEB8-464F-B234-0753A4113A2E
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainModel.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803254.801416
+e425803254.867448
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainModel.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m227"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainModel.o Classes/Models/MainModel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9d4bcdf63d61b941^d925def63d61b941^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m0000000000000000^4252"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainModel.o Classes/Models/MainModel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-baircoeticzlztefdezhpfufzmhb/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainModel.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainModel.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainModel.o36"0DFFD2C0-5A9A-4C99-89A3-43F846683669-
+bA7C4B159-DEB8-464F-B234-0753A4113A2E
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainView.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803254.795782
+e425803254.897516
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainView.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainCell.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/DataSource/CUSTableDataSource.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m233"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainView.o Classes/Views/MainView/MainView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler05dccbf63d61b941^9cc3e5f63d61b941^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m0000000000000000^4262"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainView.o Classes/Views/MainView/MainView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-baircoeticzlztefdezhpfufzmhb/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainView.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainView.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainView.o36"2EEF2C23-7059-438B-80D4-EA98EEA417FF-
+bA7C4B159-DEB8-464F-B234-0753A4113A2E
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainViewController.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803254.805579
+e425803254.896129
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainViewController.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Views/MainView/MainView.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Models/MainModel.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m265"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainViewController.o Classes/Controllers/MainController/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1d58cef63d61b941^c768e5f63d61b941^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m0000000000000000^4346"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainViewController.o Classes/Controllers/MainController/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-baircoeticzlztefdezhpfufzmhb/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainViewController.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainViewController.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainViewController.o36"147AA225-000C-4B57-870D-9374AA19F795-
+bA7C4B159-DEB8-464F-B234-0753A4113A2E
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/UIView+ModifyFrame.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803254.679385
+e425803254.794059
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/UIView+ModifyFrame.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m245"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/UIView+ModifyFrame.o Classes/Common/UIView+ModifyFrame.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2d0baef63d61b941^406acbf63d61b941^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m0000000000000000^4306"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/UIView+ModifyFrame.o Classes/Common/UIView+ModifyFrame.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-baircoeticzlztefdezhpfufzmhb/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/UIView+ModifyFrame.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/UIView+ModifyFrame.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/UIView+ModifyFrame.o36"0936A43F-5E98-4146-B492-CB7CB4A78815-
+bA7C4B159-DEB8-464F-B234-0753A4113A2E
+
+CCompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/main.o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803254.855167
+e425803254.924083
+r1
+xCompileC
+xbuild/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/main.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/AppDelegate.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Controllers/MainController/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m226"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/main.o TestTableViewDataSource/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd36bdbf63d61b941^23a2ecf63d61b941^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m0000000000000000^4240"CompileC build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/main.o TestTableViewDataSource/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-baircoeticzlztefdezhpfufzmhb/TestTableViewDataSource-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/main.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/main.m -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/main.o36"F7AEEDDD-27FD-448F-A04D-30C7B2ACD6CD-
+bA7C4B159-DEB8-464F-B234-0753A4113A2E
+
+CCopyStringsFile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/en.lproj/InfoPlist.strings TestTableViewDataSource/en.lproj/InfoPlist.strings
+s425803215.626447
+e425803215.630162
+r1
+xCopyStringsFile
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/en.lproj/InfoPlist.strings
+xTestTableViewDataSource/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy TestTableViewDataSource/en.lproj/InfoPlist.strings149"CopyStringsFile build/Debug-iphonesimulator/TestTableViewDataSource.app/en.lproj/InfoPlist.strings TestTableViewDataSource/en.lproj/InfoPlist.strings8271a0cf3d61b941^a052a1cf3d61b941^---0#0#1#-19%DVTDocumentLocation2@128"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/en.lproj/InfoPlist.strings0000000000000000^685"CopyStringsFile build/Debug-iphonesimulator/TestTableViewDataSource.app/en.lproj/InfoPlist.strings TestTableViewDataSource/en.lproj/InfoPlist.strings    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/en.lproj -- TestTableViewDataSource/en.lproj/InfoPlist.strings36"E27D425C-9359-417A-8C99-EFCC9956B5FA-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CGenerateDSYMFile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app.dSYM /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource
+s425803255.028591
+e425803255.054758
+r1
+xGenerateDSYMFile
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app.dSYM
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Generate /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app.dSYM157"GenerateDSYMFile build/Debug-iphonesimulator/TestTableViewDataSource.app.dSYM build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource4a6007f73d61b941^47050ef73d61b941^---0#0#1#-19%DVTDocumentLocation2@139"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app.dSYM/0000000000000000^790"GenerateDSYMFile build/Debug-iphonesimulator/TestTableViewDataSource.app.dSYM build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app.dSYM36"C21D3EA9-0E9C-4656-AF47-4E731AECAD17-
+bA7C4B159-DEB8-464F-B234-0753A4113A2E
+
+CLd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource normal i386
+s425803215.585755
+e425803215.617222
+r1
+xLd
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource
+xnormal
+xi386
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/TestTableViewDataSource.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/UIView+ModifyFrame.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/AppDelegate.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainCell.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CUSTableDataSource.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainView.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainModel.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/CommonDeal.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/MainViewController.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Link /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource94"Ld build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource normal i3868e0496cf3d61b941^fb029ecf3d61b941^---0#0#1#--1612"Ld build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource normal i386    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export IPHONEOS_DEPLOYMENT_TARGET=5.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -filelist /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/TestTableViewDataSource.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/i386/TestTableViewDataSource_dependency_info.dat -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource36"C0574935-E35A-4331-B858-0CD525FE6B59-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CLd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource normal x86_64
+s425803254.932948
+e425803255.017059
+r1
+xLd
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource
+xnormal
+xx86_64
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/TestTableViewDataSource.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/UIView+ModifyFrame.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainCell.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CUSTableDataSource.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainView.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainModel.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/CommonDeal.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/MainViewController.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Link /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource96"Ld build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource normal x86_6421e6eef63d61b941^2d5e04f73d61b941^---0#0#1#--1620"Ld build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource normal x86_64    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export IPHONEOS_DEPLOYMENT_TARGET=5.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator -filelist /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/TestTableViewDataSource.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/Objects-normal/x86_64/TestTableViewDataSource_dependency_info.dat -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/TestTableViewDataSource36"E971ABE7-FFF4-43ED-B826-0B6452478A07-
+bA7C4B159-DEB8-464F-B234-0753A4113A2E
+
+CProcessInfoPlistFile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/Info.plist /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/TestTableViewDataSource-Info.plist
+s425803217.350271
+e425803217.353365
+r1
+xProcessInfoPlistFile
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/Info.plist
+x/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/TestTableViewDataSource-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Process /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/TestTableViewDataSource-Info.plist146"ProcessInfoPlistFile build/Debug-iphonesimulator/TestTableViewDataSource.app/Info.plist TestTableViewDataSource/TestTableViewDataSource-Info.plist2cba59d13d61b941^75765ad13d61b941^---0#0#1#-19%DVTDocumentLocation2@136"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/TestTableViewDataSource-Info.plist0000000000000000^1100"ProcessInfoPlistFile build/Debug-iphonesimulator/TestTableViewDataSource.app/Info.plist TestTableViewDataSource/TestTableViewDataSource-Info.plist    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/TestTableViewDataSource-Info.plist -genpkginfo /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/assetcatalog_generated_info.plist -o /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app/Info.plist36"68CF9D2E-3137-4084-9E18-30C54487AA1B-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CProcessPCH /Users/user/Library/Developer/Xcode/DerivedData/TestTableViewDataSource-fcvuycgibitqpaaijmvwweahwfzb/Index/PrecompiledHeaders/TestTableViewDataSource-Prefix-cfpqfmgqrvkohbgpybsadoctwxwx_ast/TestTableViewDataSource-Prefix.pch.pch TestTableViewDataSource/TestTableViewDataSource-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/user/Library/Developer/Xcode/DerivedData/TestTableViewDataSource-fcvuycgibitqpaaijmvwweahwfzb/Index/PrecompiledHeaders/TestTableViewDataSource-Prefix-hjhjpvdohhbevxbfopjlekarqepo_ast/TestTableViewDataSource-Prefix.pch.pch TestTableViewDataSource/TestTableViewDataSource-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-baircoeticzlztefdezhpfufzmhb/TestTableViewDataSource-Prefix.pch.pch TestTableViewDataSource/TestTableViewDataSource-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch.pch TestTableViewDataSource/TestTableViewDataSource-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425803214.474277
+e425803215.354375
+r1
+xProcessPCH
+x/var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch.pch
+xTestTableViewDataSource/TestTableViewDataSource-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/TestTableViewDataSource-Prefix.pch
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/CommonDeal.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/Classes/Common/UIView+ModifyFrame.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Precompile TestTableViewDataSource/TestTableViewDataSource-Prefix.pch354"ProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch.pch TestTableViewDataSource/TestTableViewDataSource-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler897e79ce3d61b941^95b85acf3d61b941^---0#0#1#-19%DVTDocumentLocation2@136"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/TestTableViewDataSource-Prefix.pch0000000000000000^4287"ProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch.pch TestTableViewDataSource/TestTableViewDataSource-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/TestTableViewDataSource-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources/i386 -I/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/TestTableViewDataSource.build/Debug-iphonesimulator/TestTableViewDataSource.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch.d -c /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/TestTableViewDataSource/TestTableViewDataSource-Prefix.pch -o /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestTableViewDataSource-Prefix-gwcchhyjohtbvzaywawwxjpcored/TestTableViewDataSource-Prefix.pch.pch36"BFC24962-C95A-49AB-8C35-4B1086E765C7-
+bB75F88FD-A098-44A3-AF53-EFD3985D6D66
+
+CTouch /Users/user/Desktop/Desktop/WorkSpace/TestTableViewDataSource/build/Debug-iphonesimulator/TestTableViewDataSource.app
+r0
+
